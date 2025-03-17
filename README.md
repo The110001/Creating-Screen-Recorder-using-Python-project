@@ -1,2 +1,2 @@
-# practice-8
-the script let's the user to provide 5 numbers. Then choose the mathematical operation to be operated on the values chosen by the user themselves.
+# Creating a screen recorder using python
+This is a project from GeeksforGeeks website. I am going to create a screen recorder using the GeeksforGeeks website guidline, add more codes and test and practice with the program.
